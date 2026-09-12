@@ -73,7 +73,7 @@ npm install --legacy-peer-deps
 ### 4. Iniciar
 
 ```bash
-npx expo start
+npx expo start -c
 ```
 
 Depois:
